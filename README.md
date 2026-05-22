@@ -120,21 +120,7 @@ The solution helps:
 
 ---
 
-#  Screenshots
 
-## Dashboard
-
-
-## Reservation Record Page
-
-
-## Approval Process
-
-
-## Flow Automation
-
-
----
 
 #  Future Improvements
 
