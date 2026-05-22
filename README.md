@@ -123,16 +123,16 @@ The solution helps:
 #  Screenshots
 
 ## Dashboard
-(Add screenshot here)
+
 
 ## Reservation Record Page
-(Add screenshot here)
+
 
 ## Approval Process
-(Add screenshot here)
+
 
 ## Flow Automation
-(Add screenshot here)
+
 
 ---
 
